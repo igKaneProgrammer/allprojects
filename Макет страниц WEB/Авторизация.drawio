@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T17:26:50.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.126 Safari/537.36" etag="DixdB-qLHk0STbyAYJFD" version="17.4.4" type="device"><diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">zVVtT4MwEP41fDQpLTD20b2aqInJYox+MR1UQIGyrhvMX28px1vYEs1c9Eu5Pne9K89zHAaZJsVS0Cy85z6LDYz8wiAzA2OTuCP1KJFDhYxctwICEfkQ1AKr6JMBiADdRT7b9gIl57GMsj7o8TRlnuxhVAie98PeeNyvmtGADYCVR+Mh+hT5MgTURKh13LAoCKG0a4NjTb2PQPBdCvVSnrLKk9A6DYRuQ+rzvAORuUGmgnNZWUkxZXFJa81YdW5xwttcWbBUfufA6+fm8W47ev54uE3S5fs6fEn2V5BlT+MdUGFgJ1b5Jm9cpVW3lgcgydnseO242moJr1UAtrKidSor0M8ZMsZ6ncz1SmrbNFysbVevi7qeunhVEhJUnDXVsSaZle+ClDsPI8lWGfVKb66aUmGhTGK1M5vTXW7qF2VCsqIDAVdLxhMmxUGFgNeuexNaGo9gn3capO6PsNMbDmAUejJoUrfiKAP0+YFWeKjVcZYrZmfnUViKAR8qtn6HUgu7PUqJPaQUW/aQUnIpSslxSheaQKSbFXXonUD7/ndiLfTXxFpnzxXTPTlXcEeScW+iXGKWXEAvG1l9vZxjs8UZ6mX/XC+1bf8x2tf5h5P5Fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-04T19:15:17.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.126 Safari/537.36" etag="etvU-JkimOXyPQ1XRGXR" version="20.4.0" type="github">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1387" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_zqULs7YkPKmnGjbhZmv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Логотип&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500.5" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_zqULs7YkPKmnGjbhZmv-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Логин&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="428" y="350" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zqULs7YkPKmnGjbhZmv-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Пароль&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="428" y="400" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zqULs7YkPKmnGjbhZmv-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Войти&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="504" y="460" width="106" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
